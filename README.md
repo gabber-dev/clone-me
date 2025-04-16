@@ -1,4 +1,4 @@
-**Note:** This app was built using the old usage token flow. That has been deprecated in favor of a new system using TTLs. See more details [here](https://docs.gabber.dev/authentication) and [here](https://docs.gabber.dev/reference/create-usage-token).
+**Note:** This app was built using the old usage token flow. That has been deprecated in favor of a new system using TTLs. See more details [here](https://docs.gabber.dev/authentication) and [here](https://docs.gabber.dev/reference/create-usage-token). We've updated the app, but our more recent sample apps, like [this one](https://github.com/gabber-dev/example-next-js) reflect more of what a modern implementation of Gabber would look like.
 
 ## Getting Started
 
